@@ -1,4 +1,4 @@
-
+![Screenshot 2024-12-19 210559](https://github.com/user-attachments/assets/c8d83123-5325-42f9-81a4-6b52dc55a69a)
 
 
 The AI-based smart yoga mat application is a next-generation fitness tool designed to assist users in performing yoga poses correctly. By leveraging machine learning, computer vision, and real-time pose analysis, the application provides instant feedback and corrections to users during their yoga sessions. It compares the user's body posture with pre-trained pose data, identifies deviations, and guides them through voice-assisted corrections, ensuring proper alignment and reducing the risk of injury.
